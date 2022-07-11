@@ -1,4 +1,4 @@
-## Tokenless Dynamics 365 service and OData testing in Postman
+## Speedy testing of Dynamics 365 services in Postman
 
 As most of you might be aware the standard approach for testing OData and custom service API calls requires the [creation of an App registration](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/services-home-page#register-a-web-application-with-aad)
 
